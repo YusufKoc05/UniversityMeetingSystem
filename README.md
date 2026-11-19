@@ -1,7 +1,7 @@
-<div align="center">
+﻿<div align="center">
 
-# 🏛️ Kastamonu Üniversitesi — Toplantı & Ajanda Yönetim Sistemi
-### *Kastamonu University — Meeting Room & Academic Agenda Management System*
+# ğŸ›ï¸ Kastamonu Ãœniversitesi â€” ToplantÄ± & Ajanda YÃ¶netim Sistemi
+### *Kastamonu University â€” Meeting Room & Academic Agenda Management System*
 
 [![.NET 8.0](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core-MVC-512BD4?style=for-the-badge&logo=aspnetcore&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
@@ -12,132 +12,132 @@
 
 <br/>
 
-**[🇹🇷 Türkçe Dokümantasyon](#-türkçe-dokümantasyon)** &nbsp;|&nbsp; **[🇬🇧 English Documentation](#-english-documentation)**
+**[ğŸ‡¹ğŸ‡· TÃ¼rkÃ§e DokÃ¼mantasyon](#-tÃ¼rkÃ§e-dokÃ¼mantasyon)** &nbsp;|&nbsp; **[ğŸ‡¬ğŸ‡§ English Documentation](#-english-documentation)**
 
 <br/>
 
-<img src="screenshots/01_homepage_hero.png" alt="Kastamonu Üniversitesi Toplantı ve Ajanda Yönetim Sistemi" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+<img src="screenshots/01_homepage_hero.png" alt="Kastamonu Ãœniversitesi ToplantÄ± ve Ajanda YÃ¶netim Sistemi" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
 
 </div>
 
 ---
 
-# 🇹🇷 Türkçe Dokümantasyon
+# ğŸ‡¹ğŸ‡· TÃ¼rkÃ§e DokÃ¼mantasyon
 
-## 📖 Proje Hakkında
-**Kastamonu Üniversitesi Toplantı ve Ajanda Yönetim Sistemi**, üniversite bünyesindeki rektörlük birimleri, fakülteler ve enstitülere ait toplantı ve konferans salonlarının rezervasyonlarını, akademik etkinlik ajandasını, salon doluluk durumlarını ve kapı tablet ekranlarını (Kiosk) tek merkezden yönetmek amacıyla geliştirilmiş yeni nesil, gerçek zamanlı kurumsal bir web platformudur.
+## ğŸ“– Proje HakkÄ±nda
+**Kastamonu Ãœniversitesi ToplantÄ± ve Ajanda YÃ¶netim Sistemi**, Ã¼niversite bÃ¼nyesindeki rektÃ¶rlÃ¼k birimleri, fakÃ¼lteler ve enstitÃ¼lere ait toplantÄ± ve konferans salonlarÄ±nÄ±n rezervasyonlarÄ±nÄ±, akademik etkinlik ajandasÄ±nÄ±, salon doluluk durumlarÄ±nÄ± ve kapÄ± tablet ekranlarÄ±nÄ± (Kiosk) tek merkezden yÃ¶netmek amacÄ±yla geliÅŸtirilmiÅŸ yeni nesil, gerÃ§ek zamanlÄ± kurumsal bir web platformudur.
 
-Proje, Kastamonu Üniversitesi kurumsal renk kimliğine (Bordo-Kırmızı, Siyah ve Beyaz) tam uyumlu olarak tasarlanmış olup, zenginleştirilmiş kullanıcı deneyimi (UI/UX), Koyu/Açık Tema desteği, ASP.NET Core SignalR ile canlı takvim senkronizasyonu ve mobil uyumlu Kiosk kapı ekranı yeteneklerini bir arada sunar.
+Proje, Kastamonu Ãœniversitesi kurumsal renk kimliÄŸine (Bordo-KÄ±rmÄ±zÄ±, Siyah ve Beyaz) tam uyumlu olarak tasarlanmÄ±ÅŸ olup, zenginleÅŸtirilmiÅŸ kullanÄ±cÄ± deneyimi (UI/UX), Koyu/AÃ§Ä±k Tema desteÄŸi, ASP.NET Core SignalR ile canlÄ± takvim senkronizasyonu ve mobil uyumlu Kiosk kapÄ± ekranÄ± yeteneklerini bir arada sunar.
 
 ---
 
-## 📸 Ekran Görüntüleri ve Arayüz Galerisi
+## ğŸ“¸ Ekran GÃ¶rÃ¼ntÃ¼leri ve ArayÃ¼z Galerisi
 
-### 1. Anasayfa & Kurumsal İstatistik Paneli
-Kullanıcıları karşılayan kurumsal karşılama alanı, toplam salon sayısı, bugünkü toplantılar ve yaklaşan etkinlik sayaçları.
+### 1. Anasayfa & Kurumsal Ä°statistik Paneli
+KullanÄ±cÄ±larÄ± karÅŸÄ±layan kurumsal karÅŸÄ±lama alanÄ±, toplam salon sayÄ±sÄ±, bugÃ¼nkÃ¼ toplantÄ±lar ve yaklaÅŸan etkinlik sayaÃ§larÄ±.
 <p align="center">
-  <img src="screenshots/01_homepage_hero.png" width="95%" alt="Anasayfa & İstatistik Paneli" />
+  <img src="screenshots/01_homepage_hero.png" width="95%" alt="Anasayfa & Ä°statistik Paneli" />
 </p>
 
-### 2. Günün Toplantı Ajandası & Takvim Entegrasyonları
-Günün planı, Google Calendar ve Outlook entegrasyon kartları ve iCal (.ics) indirme bağlantıları.
+### 2. GÃ¼nÃ¼n ToplantÄ± AjandasÄ± & Takvim EntegrasyonlarÄ±
+GÃ¼nÃ¼n planÄ±, Google Calendar ve Outlook entegrasyon kartlarÄ± ve iCal (.ics) indirme baÄŸlantÄ±larÄ±.
 <p align="center">
-  <img src="screenshots/02_homepage_agenda_integration.png" width="95%" alt="Günün Toplantı Ajandası & Entegrasyonlar" />
+  <img src="screenshots/02_homepage_agenda_integration.png" width="95%" alt="GÃ¼nÃ¼n ToplantÄ± AjandasÄ± & Entegrasyonlar" />
 </p>
 
-### 3. Canlı Salon Durum Göstergesi (Pulse Badges)
-Her salonda o an toplantı olup olmadığını gösteren canlı nabız göstergesi (`🟢 Şu An Müsait` veya `🔴 Toplantı Sürüyor` ve kalan süre bildirimi).
+### 3. CanlÄ± Salon Durum GÃ¶stergesi (Pulse Badges)
+Her salonda o an toplantÄ± olup olmadÄ±ÄŸÄ±nÄ± gÃ¶steren canlÄ± nabÄ±z gÃ¶stergesi (`ğŸŸ¢ Åu An MÃ¼sait` veya `ğŸ”´ ToplantÄ± SÃ¼rÃ¼yor` ve kalan sÃ¼re bildirimi).
 <p align="center">
-  <img src="screenshots/03_homepage_live_rooms.png" width="95%" alt="Canlı Salon Durum Kartları" />
+  <img src="screenshots/03_homepage_live_rooms.png" width="95%" alt="CanlÄ± Salon Durum KartlarÄ±" />
 </p>
 
-### 4. İnteraktif Toplantı Takvimi (FullCalendar & SignalR)
-Sayfa yenilemeden canlı senkronize olan, salon ve akademik toplantı türüne göre filtrelenebilen, sürükle-bırak destekli ajanda.
+### 4. Ä°nteraktif ToplantÄ± Takvimi (FullCalendar & SignalR)
+Sayfa yenilemeden canlÄ± senkronize olan, salon ve akademik toplantÄ± tÃ¼rÃ¼ne gÃ¶re filtrelenebilen, sÃ¼rÃ¼kle-bÄ±rak destekli ajanda.
 <p align="center">
-  <img src="screenshots/04_calendar_agenda_view.png" width="95%" alt="İnteraktif Toplantı Takvimi" />
+  <img src="screenshots/04_calendar_agenda_view.png" width="95%" alt="Ä°nteraktif ToplantÄ± Takvimi" />
 </p>
 
-### 5. Yeni Toplantı Rezervasyon Formu
-Akademik toplantı türü seçimi (Senato, Akademik Kurul, Tez Savunması, BAP), katılımcı davet listesi ve gündem açıklamaları girişi.
+### 5. Yeni ToplantÄ± Rezervasyon Formu
+Akademik toplantÄ± tÃ¼rÃ¼ seÃ§imi (Senato, Akademik Kurul, Tez SavunmasÄ±, BAP), katÄ±lÄ±mcÄ± davet listesi ve gÃ¼ndem aÃ§Ä±klamalarÄ± giriÅŸi.
 <p align="center">
   <img src="screenshots/06_reservation_create.png" width="95%" alt="Yeni Rezervasyon Formu" />
 </p>
 
-### 6. Kullanıcı Rezervasyonlarım Listesi & ICS İndirme
-Kullanıcının aktif ve geçmiş toplantılarını takip edebildiği, tek tıkla dijital takvim dosyası (.ics) indirebildiği ve detay tutanağına ulaşabildiği yönetim alanı.
+### 6. KullanÄ±cÄ± RezervasyonlarÄ±m Listesi & ICS Ä°ndirme
+KullanÄ±cÄ±nÄ±n aktif ve geÃ§miÅŸ toplantÄ±larÄ±nÄ± takip edebildiÄŸi, tek tÄ±kla dijital takvim dosyasÄ± (.ics) indirebildiÄŸi ve detay tutanaÄŸÄ±na ulaÅŸabildiÄŸi yÃ¶netim alanÄ±.
 <p align="center">
-  <img src="screenshots/05_reservations_list.png" width="95%" alt="Toplantı Rezervasyonlarım Listesi" />
+  <img src="screenshots/05_reservations_list.png" width="95%" alt="ToplantÄ± RezervasyonlarÄ±m Listesi" />
 </p>
 
-### 7. Güvenli Giriş, reCAPTCHA & Grafik Güvenlik Kodu (Captcha)
-Google reCAPTCHA ve dinamik çizilen güvenlik koduyla brute-force ve bot ataklarına karşı korumalı oturum açma sayfası.
+### 7. GÃ¼venli GiriÅŸ, reCAPTCHA & Grafik GÃ¼venlik Kodu (Captcha)
+Google reCAPTCHA ve dinamik Ã§izilen gÃ¼venlik koduyla brute-force ve bot ataklarÄ±na karÅŸÄ± korumalÄ± oturum aÃ§ma sayfasÄ±.
 <p align="center">
-  <img src="screenshots/07_login_recaptcha.png" width="95%" alt="Güvenli Giriş & Captcha" />
+  <img src="screenshots/07_login_recaptcha.png" width="95%" alt="GÃ¼venli GiriÅŸ & Captcha" />
 </p>
 
-### 8. Yönetim Paneli — Dashboard & Aylık Rezervasyon Analitiği
-Yöneticiler için anlık istatistikler, en çok kullanılan salon sıralaması ve Chart.js destekli aylık rezervasyon trend grafiği.
+### 8. YÃ¶netim Paneli â€” Dashboard & AylÄ±k Rezervasyon AnalitiÄŸi
+YÃ¶neticiler iÃ§in anlÄ±k istatistikler, en Ã§ok kullanÄ±lan salon sÄ±ralamasÄ± ve Chart.js destekli aylÄ±k rezervasyon trend grafiÄŸi.
 <p align="center">
-  <img src="screenshots/08_admin_dashboard.png" width="95%" alt="Yönetim Paneli Dashboard" />
+  <img src="screenshots/08_admin_dashboard.png" width="95%" alt="YÃ¶netim Paneli Dashboard" />
 </p>
 
-### 9. Yönetim Paneli — Kullanıcı ve Rol Yönetimi
-Sistemdeki kullanıcıları listeleme, detaylarını inceleme ve tek tıkla Admin / User rol ataması yapabilme ekranı.
+### 9. YÃ¶netim Paneli â€” KullanÄ±cÄ± ve Rol YÃ¶netimi
+Sistemdeki kullanÄ±cÄ±larÄ± listeleme, detaylarÄ±nÄ± inceleme ve tek tÄ±kla Admin / User rol atamasÄ± yapabilme ekranÄ±.
 <p align="center">
-  <img src="screenshots/09_admin_user_management.png" width="48%" alt="Kullanıcı Yönetimi" />
-  <img src="screenshots/10_admin_role_edit.png" width="48%" alt="Rol Güncelleme" />
+  <img src="screenshots/09_admin_user_management.png" width="48%" alt="KullanÄ±cÄ± YÃ¶netimi" />
+  <img src="screenshots/10_admin_role_edit.png" width="48%" alt="Rol GÃ¼ncelleme" />
 </p>
 
-### 10. Yönetim Paneli — Tüm Rezervasyonların Denetimi
-Üniversite genelinde açılan tüm toplantıları onaylama, detaylarını görme, gerektiğinde iptal etme veya silme ekranı.
+### 10. YÃ¶netim Paneli â€” TÃ¼m RezervasyonlarÄ±n Denetimi
+Ãœniversite genelinde aÃ§Ä±lan tÃ¼m toplantÄ±larÄ± onaylama, detaylarÄ±nÄ± gÃ¶rme, gerektiÄŸinde iptal etme veya silme ekranÄ±.
 <p align="center">
-  <img src="screenshots/11_admin_reservations.png" width="95%" alt="Rezervasyon Yönetimi" />
+  <img src="screenshots/11_admin_reservations.png" width="95%" alt="Rezervasyon YÃ¶netimi" />
 </p>
 
 ---
 
-## 🌟 Öne Çıkan Fonksiyonel Özellikler
+## ğŸŒŸ Ã–ne Ã‡Ä±kan Fonksiyonel Ã–zellikler
 
-- **🏛️ Kurumsal Renk Paleti:** Kastamonu Üniversitesi'nin kurumsal kimliği olan `#B22525` Bordo-Kırmızı, `#111111` Siyah ve `#FFFFFF` Beyaz uyumu.
-- **🌓 Koyu / Açık Mod (Dark & Light Theme):** Tek tıkla gece moduna geçiş; tercih `localStorage` hafızasında tutulur.
-- **🟢 Canlı Salon Durum Rozetleri:** Anlık müsaitlik tespiti, devam eden toplantı adı ve kalan süre sayacı.
-- **🔄 SignalR ile Canlı Senkronizasyon:** Farklı bir kullanıcının eklediği veya güncellediği toplantı, açık olan tüm takvimlerde sayfa yenilenmeden anında belirir.
-- **🖱️ Sürükle & Bırak ile Saat Güncelleme:** FullCalendar üzerinden toplantı kutusu fareyle sürüklenerek saati değiştirilebilir; çakışma durumunda işlem otomatik geri alınır.
-- **⚡ 5 Saniyede Hızlı Rezervasyon:** Takvimde boş bir aralık taranarak sayfa değiştirmeden modal penceresinden hızlı kayıt açılabilir.
-- **📺 Salon Kapı Ekranı / Kiosk Tablet Modu (`/Room/DoorDisplay/{id}`):** Salon kapısına asılan tabletler için büyük saat, durum rengi parlaması ve salona özel dinamik QR kod.
-- **🎓 Akademik Toplantı Türleri:** Senato Toplantısı, Fakülte/Bölüm Kurulu, Tez Savunması, BAP Toplantısı, Öğrenci Kulübü ve Konferans/Seminer kategorileri.
-- **📅 Ajanda & Takvim Entegrasyonu:** Google Calendar, Apple Calendar ve Microsoft Outlook (.ics) tam uyumluluğu.
-- **📄 Resmi Tutanak ve Çağrı Çıktısı:** Tek tıkla resmi üniversite formatında katılım yoklama tutanağı yazdırma (`window.print()`).
+- **ğŸ›ï¸ Kurumsal Renk Paleti:** Kastamonu Ãœniversitesi'nin kurumsal kimliÄŸi olan `#B22525` Bordo-KÄ±rmÄ±zÄ±, `#111111` Siyah ve `#FFFFFF` Beyaz uyumu.
+- **ğŸŒ“ Koyu / AÃ§Ä±k Mod (Dark & Light Theme):** Tek tÄ±kla gece moduna geÃ§iÅŸ; tercih `localStorage` hafÄ±zasÄ±nda tutulur.
+- **ğŸŸ¢ CanlÄ± Salon Durum Rozetleri:** AnlÄ±k mÃ¼saitlik tespiti, devam eden toplantÄ± adÄ± ve kalan sÃ¼re sayacÄ±.
+- **ğŸ”„ SignalR ile CanlÄ± Senkronizasyon:** FarklÄ± bir kullanÄ±cÄ±nÄ±n eklediÄŸi veya gÃ¼ncellediÄŸi toplantÄ±, aÃ§Ä±k olan tÃ¼m takvimlerde sayfa yenilenmeden anÄ±nda belirir.
+- **ğŸ–±ï¸ SÃ¼rÃ¼kle & BÄ±rak ile Saat GÃ¼ncelleme:** FullCalendar Ã¼zerinden toplantÄ± kutusu fareyle sÃ¼rÃ¼klenerek saati deÄŸiÅŸtirilebilir; Ã§akÄ±ÅŸma durumunda iÅŸlem otomatik geri alÄ±nÄ±r.
+- **âš¡ 5 Saniyede HÄ±zlÄ± Rezervasyon:** Takvimde boÅŸ bir aralÄ±k taranarak sayfa deÄŸiÅŸtirmeden modal penceresinden hÄ±zlÄ± kayÄ±t aÃ§Ä±labilir.
+- **ğŸ“º Salon KapÄ± EkranÄ± / Kiosk Tablet Modu (`/Room/DoorDisplay/{id}`):** Salon kapÄ±sÄ±na asÄ±lan tabletler iÃ§in bÃ¼yÃ¼k saat, durum rengi parlamasÄ± ve salona Ã¶zel dinamik QR kod.
+- **ğŸ“ Akademik ToplantÄ± TÃ¼rleri:** Senato ToplantÄ±sÄ±, FakÃ¼lte/BÃ¶lÃ¼m Kurulu, Tez SavunmasÄ±, BAP ToplantÄ±sÄ±, Ã–ÄŸrenci KulÃ¼bÃ¼ ve Konferans/Seminer kategorileri.
+- **ğŸ“… Ajanda & Takvim Entegrasyonu:** Google Calendar, Apple Calendar ve Microsoft Outlook (.ics) tam uyumluluÄŸu.
+- **ğŸ“„ Resmi Tutanak ve Ã‡aÄŸrÄ± Ã‡Ä±ktÄ±sÄ±:** Tek tÄ±kla resmi Ã¼niversite formatÄ±nda katÄ±lÄ±m yoklama tutanaÄŸÄ± yazdÄ±rma (`window.print()`).
 
 ---
 
 <br/><br/>
 
-# 🇬🇧 English Documentation
+# ğŸ‡¬ğŸ‡§ English Documentation
 
-## 📖 About The Project
+## ğŸ“– About The Project
 **Kastamonu University Meeting Room & Academic Agenda Management System** is an enterprise-grade, real-time web platform built to manage conference rooms, academic board meetings, real-time room occupancy, and smart door tablet kiosk displays across university faculties and departments.
 
 Built with **ASP.NET Core 8 MVC**, **SignalR**, and **Entity Framework Core**, it provides a corporate Red-Black-White aesthetic matching Kastamonu University's brand guidelines, featuring complete Dark/Light mode support, live calendar synchronization, drag-and-drop scheduling, and printable official attendance minutes.
 
 ---
 
-## 🚀 Key Features
+## ğŸš€ Key Features
 
-- **🏛️ University Identity & Responsive Design:** Elegant Red (`#B22525`), Black (`#111111`), and White (`#FFFFFF`) color scheme.
-- **🌓 Dark / Light Mode Toggle:** Smooth CSS-variable driven theme switching persisted in `localStorage`.
-- **🟢 Live Room Occupancy Badges:** Real-time pulse indicator showing whether a room is currently available (`🟢 Available`) or occupied (`🔴 Meeting in Progress` with remaining minutes).
-- **🔄 Real-Time SignalR Synchronization:** Instant cross-client calendar updates upon reservation creation, modification, or cancellation without page reloads.
-- **🖱️ FullCalendar Drag-and-Drop & Slot Booking:** Drag-and-drop rescheduling with automatic backend conflict validation, plus 5-second quick modal booking.
-- **📺 Door Display / Kiosk Tablet Mode (`/Room/DoorDisplay/{id}`):** Designed for tablet displays mounted outside meeting rooms; features a live digital clock, status glow, meeting progress bar, and dynamic QR code.
-- **🎓 Academic Categorization:** Dedicated categories for Senate Meetings, Faculty Boards, Thesis Defenses, Research Projects (BAP), Student Clubs, and Seminars.
-- **📅 Universal Calendar Integration:** 1-click Google Calendar add-link, Microsoft Outlook / Office 365, and RFC 5545 iCalendar (`.ics`) file export.
-- **🛡️ Enterprise Security:** ASP.NET Core Identity with Cookie security, Role-Based Access Control (Admin/User), Google reCAPTCHA v2/v3, and dynamic graphical captcha.
-- **📄 Printable Minutes of Meeting:** Formatted university attendance sheet ready for signing and printing (`window.print()`).
+- **ğŸ›ï¸ University Identity & Responsive Design:** Elegant Red (`#B22525`), Black (`#111111`), and White (`#FFFFFF`) color scheme.
+- **ğŸŒ“ Dark / Light Mode Toggle:** Smooth CSS-variable driven theme switching persisted in `localStorage`.
+- **ğŸŸ¢ Live Room Occupancy Badges:** Real-time pulse indicator showing whether a room is currently available (`ğŸŸ¢ Available`) or occupied (`ğŸ”´ Meeting in Progress` with remaining minutes).
+- **ğŸ”„ Real-Time SignalR Synchronization:** Instant cross-client calendar updates upon reservation creation, modification, or cancellation without page reloads.
+- **ğŸ–±ï¸ FullCalendar Drag-and-Drop & Slot Booking:** Drag-and-drop rescheduling with automatic backend conflict validation, plus 5-second quick modal booking.
+- **ğŸ“º Door Display / Kiosk Tablet Mode (`/Room/DoorDisplay/{id}`):** Designed for tablet displays mounted outside meeting rooms; features a live digital clock, status glow, meeting progress bar, and dynamic QR code.
+- **ğŸ“ Academic Categorization:** Dedicated categories for Senate Meetings, Faculty Boards, Thesis Defenses, Research Projects (BAP), Student Clubs, and Seminars.
+- **ğŸ“… Universal Calendar Integration:** 1-click Google Calendar add-link, Microsoft Outlook / Office 365, and RFC 5545 iCalendar (`.ics`) file export.
+- **ğŸ›¡ï¸ Enterprise Security:** ASP.NET Core Identity with Cookie security, Role-Based Access Control (Admin/User), Google reCAPTCHA v2/v3, and dynamic graphical captcha.
+- **ğŸ“„ Printable Minutes of Meeting:** Formatted university attendance sheet ready for signing and printing (`window.print()`).
 
 ---
 
-## 🛠️ Tech Stack
+## ğŸ› ï¸ Tech Stack
 
 | Layer | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -152,55 +152,55 @@ Built with **ASP.NET Core 8 MVC**, **SignalR**, and **Entity Framework Core**, i
 
 ---
 
-## 📁 Project Structure
+## ğŸ“ Project Structure
 
 ```bash
-KastamonuUni-ToplantiAjanda/
-│
-├── Areas/
-│   └── Admin/                     # Admin Portal (Dashboard, Room & User Management)
-│       ├── Controllers/
-│       └── Views/
-│
-├── Controllers/
-│   ├── HomeController.cs          # Public dashboard, live occupancy stats & today's agenda
-│   ├── ReservationController.cs   # Booking workflow, FullCalendar API, SignalR & ICS export
-│   └── RoomController.cs          # Room directory, equipment filtering & Kiosk Door Display
-│
-├── Data/
-│   └── ApplicationDbContext.cs    # EF Core database context & relationships
-│
-├── Hubs/
-│   └── CalendarHub.cs             # Real-time SignalR event broadcast hub
-│
-├── Models/
-│   ├── ApplicationUser.cs         # Extended Identity user model
-│   ├── Reservation.cs             # Booking model (MeetingType, Attendees, Schedule)
-│   ├── Room.cs                    # Room model (Amenities, Department, Live Status)
-│   └── HomeDashboardViewModel.cs  # Unified view model for the home dashboard
-│
-├── Services/
-│   ├── CalendarIntegrationService.cs  # RFC 5545 iCalendar (.ics) & Google Calendar generator
-│   └── SmtpEmailSender.cs             # Email invitation and notification service
-│
-├── Views/
-│   ├── Home/                      # Landing page, statistics & live room cards
-│   ├── Reservation/               # Interactive calendar, details, printable sign sheet
-│   ├── Room/                      # Room catalog, amenity badges, and Kiosk DoorDisplay
-│   └── Shared/                    # Navigation bar, Dark Mode switcher, SignalR listener
-│
-├── screenshots/                   # High-resolution screenshots showcasing the project
-├── wwwroot/
-│   ├── css/site.css               # Corporate Red-White-Black theme & Dark Mode styles
-│   └── js/site.js                 # SignalR client listener & theme persistence
-│
-├── Program.cs                     # Service registrations, SignalR hub routing, Seed Data
-└── README.md                      # Comprehensive dual-language documentation
+UniversityMeetingSystem/
+â”‚
+â”œâ”€â”€ Areas/
+â”‚   â””â”€â”€ Admin/                     # Admin Portal (Dashboard, Room & User Management)
+â”‚       â”œâ”€â”€ Controllers/
+â”‚       â””â”€â”€ Views/
+â”‚
+â”œâ”€â”€ Controllers/
+â”‚   â”œâ”€â”€ HomeController.cs          # Public dashboard, live occupancy stats & today's agenda
+â”‚   â”œâ”€â”€ ReservationController.cs   # Booking workflow, FullCalendar API, SignalR & ICS export
+â”‚   â””â”€â”€ RoomController.cs          # Room directory, equipment filtering & Kiosk Door Display
+â”‚
+â”œâ”€â”€ Data/
+â”‚   â””â”€â”€ ApplicationDbContext.cs    # EF Core database context & relationships
+â”‚
+â”œâ”€â”€ Hubs/
+â”‚   â””â”€â”€ CalendarHub.cs             # Real-time SignalR event broadcast hub
+â”‚
+â”œâ”€â”€ Models/
+â”‚   â”œâ”€â”€ ApplicationUser.cs         # Extended Identity user model
+â”‚   â”œâ”€â”€ Reservation.cs             # Booking model (MeetingType, Attendees, Schedule)
+â”‚   â”œâ”€â”€ Room.cs                    # Room model (Amenities, Department, Live Status)
+â”‚   â””â”€â”€ HomeDashboardViewModel.cs  # Unified view model for the home dashboard
+â”‚
+â”œâ”€â”€ Services/
+â”‚   â”œâ”€â”€ CalendarIntegrationService.cs  # RFC 5545 iCalendar (.ics) & Google Calendar generator
+â”‚   â””â”€â”€ SmtpEmailSender.cs             # Email invitation and notification service
+â”‚
+â”œâ”€â”€ Views/
+â”‚   â”œâ”€â”€ Home/                      # Landing page, statistics & live room cards
+â”‚   â”œâ”€â”€ Reservation/               # Interactive calendar, details, printable sign sheet
+â”‚   â”œâ”€â”€ Room/                      # Room catalog, amenity badges, and Kiosk DoorDisplay
+â”‚   â””â”€â”€ Shared/                    # Navigation bar, Dark Mode switcher, SignalR listener
+â”‚
+â”œâ”€â”€ screenshots/                   # High-resolution screenshots showcasing the project
+â”œâ”€â”€ wwwroot/
+â”‚   â”œâ”€â”€ css/site.css               # Corporate Red-White-Black theme & Dark Mode styles
+â”‚   â””â”€â”€ js/site.js                 # SignalR client listener & theme persistence
+â”‚
+â”œâ”€â”€ Program.cs                     # Service registrations, SignalR hub routing, Seed Data
+â””â”€â”€ README.md                      # Comprehensive dual-language documentation
 ```
 
 ---
 
-## 🚀 Quick Start & Installation
+## ğŸš€ Quick Start & Installation
 
 ### Prerequisites
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
@@ -209,8 +209,8 @@ KastamonuUni-ToplantiAjanda/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YusufKoc05/KastamonuUni-ToplantiAjanda.git
-cd KastamonuUni-ToplantiAjanda/KastamonuMeetingRoom/KastamonuMeetingRoom
+git clone https://github.com/YusufKoc05/UniversityMeetingSystem.git
+cd UniversityMeetingSystem/KastamonuMeetingRoom/KastamonuMeetingRoom
 ```
 
 ### 2. Configure Database Connection
@@ -233,7 +233,7 @@ Navigate to:
 
 ---
 
-## 🔑 Default Administrator Credentials
+## ğŸ”‘ Default Administrator Credentials
 
 Upon initial launch, the system automatically creates the admin account:
 - **Email:** `admin@kastamonu.com`
@@ -241,7 +241,7 @@ Upon initial launch, the system automatically creates the admin account:
 
 ---
 
-## 📺 Kiosk / Tablet Door Display Route
+## ğŸ“º Kiosk / Tablet Door Display Route
 
 Mount a tablet outside each conference hall and navigate to:
 ```text
@@ -255,17 +255,18 @@ https://localhost:7187/Room/DoorDisplay/{RoomId}
 
 ---
 
-## 📄 License
+## ğŸ“„ License
 This project is licensed under the [MIT License](LICENSE). You are free to adapt and customize it for educational or institutional use.
 
 ---
 
-## 👨‍💻 Developer & Contact
+## ğŸ‘¨â€ğŸ’» Developer & Contact
 
-**Yusuf Koç**  
+**Yusuf KoÃ§**  
 - **GitHub:** [@YusufKoc05](https://github.com/YusufKoc05)  
-- **Repository:** [KastamonuUni-ToplantiAjanda](https://github.com/YusufKoc05/KastamonuUni-ToplantiAjanda)
+- **Repository:** [UniversityMeetingSystem](https://github.com/YusufKoc05/UniversityMeetingSystem)
 
 <div align="center">
   <sub>Developed for Kastamonu University Department of Information Technology & Academic Units.</sub>
 </div>
+
